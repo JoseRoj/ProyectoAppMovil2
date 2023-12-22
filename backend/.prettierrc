@@ -1,0 +1,10 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 1,
+  "useTabs": true,
+  "printWidth": 80,
+  "brace-style": ["1tbs", "allman"],
+  "trailingComma": "none",  
+  "bracketSpacing": true
+}
