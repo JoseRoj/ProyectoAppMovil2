@@ -197,6 +197,7 @@ class _LoginState extends State<Login> {
                                     ? seccionEnviar("")
                                     : buildFutureBuilder()),
                           ),
+                          const Text("By: José Rojas"),
                         ],
                       ),
                     ),
